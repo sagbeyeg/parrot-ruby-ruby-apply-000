@@ -4,11 +4,8 @@ require_relative '../parrot.rb' # Code your solution in this file
 def parrot
   puts "Squawk!"
   "Squawk!"
-end
-
-def phrase
-  puts "Pretty girl!"
-  "Pretty girl!"
+  
+  
 end
 
 describe '#parrot' do
